@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MigratingJetpackComposeToExistingApps</string>
+    <string name="image_description">Image</string>
+    <string name="time">Time</string>
+    <string name="privacy">Public</string>
+
+</resources>
